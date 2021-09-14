@@ -60,6 +60,9 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="assets\call_win_multiblockreplace.png" />
+    <Content Include="assets\name_of_blocks_to_replace.png" />
+    <Content Include="assets\name_of_replacing_block.png" />
+    <Content Include="assets\no_blocks_proceed.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
